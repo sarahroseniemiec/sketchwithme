@@ -1,0 +1,20 @@
+html {
+  margin: 0px auto;
+}
+
+body {
+  font-family: 'Karla', sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+canvas {
+  text-align: center;
+  margin: 0px auto;
+}
+
+#sketchholder {
+  text-align: center;
+}
